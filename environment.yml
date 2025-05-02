@@ -1,0 +1,13 @@
+name: green_env
+dependencies:
+  - python=3.10
+  - matplotlib
+  - seaborn
+  - numpy
+  - tensorflow
+  - scikit-learn
+  - opencv-python
+ 
+
+# conda env create -f environment.yml
+
