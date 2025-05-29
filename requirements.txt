@@ -1,9 +1,0 @@
-# Benötigte Python-Version: 3.10
-matplotlib
-seaborn
-numpy
-tensorflow
-scikit-learn
-opencv-python
-
-# pip install -r requirements.txt

@@ -4,9 +4,12 @@ dependencies:
   - matplotlib
   - seaborn
   - numpy
-  - tensorflow
   - scikit-learn
-  - opencv-python
+  - pip
+  - pip:
+      - keras==3.6
+      - tensorflow==2.18
+      - opencv-python
  
 
 # conda env create -f environment.yml
