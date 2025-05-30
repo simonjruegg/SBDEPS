@@ -5,5 +5,8 @@ numpy
 tensorflow
 scikit-learn
 opencv-python
+pandas
+optuna
+plotly
 
 # pip install -r requirements.txt
