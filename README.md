@@ -12,7 +12,6 @@ A CNN Model trained for Satellite-Based Detection of Electric Parking Stations, 
 
 ### Files:
 
-| File Name                              | Description |
 |----------------------------------------|-------------|
 | `cnn_optimised_sgd.keras`              | the best performing model, usable on satellite images (250x250 px) |
 | `main.ipynb`                           | validates model on a custom dataset |
@@ -27,7 +26,6 @@ A CNN Model trained for Satellite-Based Detection of Electric Parking Stations, 
 
 ### Folders:
 
-| Folder Name               | Description |
 |---------------------------|-------------|
 | `eparking/`               | custom folder to evaluate the model |
 | `__archived/`             | contains old codes and old models |
