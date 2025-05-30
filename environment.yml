@@ -10,6 +10,8 @@ dependencies:
       - keras==3.6
       - tensorflow==2.18
       - opencv-python
+      - optuna
+      - plotly
  
 
 # conda env create -f environment.yml
