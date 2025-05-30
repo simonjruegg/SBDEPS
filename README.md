@@ -7,3 +7,4 @@ To validate on a labeled custom dataset...
 1. Create a folder "eparking" with two subfolders "y" & "n"
 2. Save labeled images in "eparking" folder (y = with Charging Station, n = without)
 3. Open and run main.ipynb (if necessary create environment or install libraries)
+   --> model: cnn_optimised_adam.keras (used in main)
