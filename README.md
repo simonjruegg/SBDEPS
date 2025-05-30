@@ -14,6 +14,7 @@ To validate on a labeled custom dataset...
 
 Files:
 
+cnn_optimised_sgd.keras                     - the best performing model, usable on satellite images (250x250px)
 main.ipynb                                  - validates model on custom dataset
 model_summary.ipynb                         - provides insight to a model's architecture
 cnn_model_performances.ipynb                - tests and compares models on the entire dataset
